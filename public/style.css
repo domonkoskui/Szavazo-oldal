@@ -10,7 +10,7 @@ h1, h2{
 }
 label{
     color: beige;
-    font-size: 20pt;
+    font-size: 25pt;
     
 }
 button
@@ -34,4 +34,7 @@ button
     background-color: #4CAF50;
     color: white;
   }
-  
+#első
+{
+    
+}
