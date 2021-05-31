@@ -6,7 +6,13 @@ html{
 
 h1, h2{
     
-    color:olivedrab
+    color:olivedrab;
+}
+h1{
+    font-size: 30pt;
+}
+h2{
+    font-size: 23pt;
 }
 label{
     color: beige;
@@ -34,7 +40,3 @@ button
     background-color: #4CAF50;
     color: white;
   }
-#első
-{
-    
-}
