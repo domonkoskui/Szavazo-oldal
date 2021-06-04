@@ -1,0 +1,15 @@
+html{
+    background-color: black;
+    text-align: center;
+    color:olivedrab;
+}
+h1, h2{
+    
+    color:olivedrab;
+}
+h1{
+    font-size: 30pt;
+}
+p{
+    font-size:23pt;
+}
